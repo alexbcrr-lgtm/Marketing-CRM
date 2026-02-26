@@ -1,0 +1,274 @@
+{
+  "last_updated": "2026-02-24T05:37:36.077640",
+  "total_dealers": 14,
+  "new_dealers_added": 2,
+  "target_regions": [
+    "Bay Area",
+    "Sacramento",
+    "Central Valley",
+    "Los Angeles",
+    "San Diego"
+  ],
+  "dealers": [
+    {
+      "name": "Restaurant Equipment World",
+      "region": "Bay Area",
+      "tier": 1,
+      "est_size": "50+",
+      "specialty": "full_service",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "Mission Restaurant Supply",
+      "region": "Los Angeles",
+      "tier": 1,
+      "est_size": "100+",
+      "specialty": "logistics_heavy",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "CKitchen",
+      "region": "San Diego",
+      "tier": 1,
+      "est_size": "75+",
+      "specialty": "ecommerce_logistics",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "The Restaurant Store",
+      "region": "Central Valley",
+      "tier": 1,
+      "est_size": "60+",
+      "specialty": "distribution",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "Superior Restaurant Equipment",
+      "region": "Bay Area",
+      "tier": 2,
+      "est_size": "25-50",
+      "specialty": "installation",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "California Restaurant Services",
+      "region": "Los Angeles",
+      "tier": 2,
+      "est_size": "30-50",
+      "specialty": "consulting",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "Bay Area Kitchen Supply",
+      "region": "Bay Area",
+      "tier": 2,
+      "est_size": "20-40",
+      "specialty": "logistics",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "Central Cal Equipment",
+      "region": "Central Valley",
+      "tier": 2,
+      "est_size": "25-40",
+      "specialty": "warehousing",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "Valley Restaurant Supply",
+      "region": "Sacramento",
+      "tier": 2,
+      "est_size": "20-35",
+      "specialty": "delivery",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "NorCal Commercial Kitchens",
+      "region": "Sacramento",
+      "tier": 3,
+      "est_size": "10-20",
+      "specialty": "custom",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "Pacific Food Equipment",
+      "region": "San Diego",
+      "tier": 3,
+      "est_size": "15-25",
+      "specialty": "repair",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "Coastline Restaurant Supply",
+      "region": "Los Angeles",
+      "tier": 3,
+      "est_size": "10-20",
+      "specialty": "coastal_delivery",
+      "added_date": "2025-02-22T16:47:00-08:00",
+      "status": "identified"
+    },
+    {
+      "name": "Sierra Kitchen Solutions",
+      "region": "Central Valley",
+      "tier": 3,
+      "est_size": "8-15",
+      "specialty": "rural",
+      "added_date": "2026-02-24T05:37:36.077579",
+      "status": "identified"
+    },
+    {
+      "name": "Metro Kitchen Equipment",
+      "region": "Bay Area",
+      "tier": 3,
+      "est_size": "12-20",
+      "specialty": "urban",
+      "added_date": "2026-02-24T05:37:36.077617",
+      "status": "identified"
+    }
+  ],
+  "priority_tiers": {
+    "tier_1": [
+      {
+        "name": "Restaurant Equipment World",
+        "region": "Bay Area",
+        "tier": 1,
+        "est_size": "50+",
+        "specialty": "full_service",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      },
+      {
+        "name": "Mission Restaurant Supply",
+        "region": "Los Angeles",
+        "tier": 1,
+        "est_size": "100+",
+        "specialty": "logistics_heavy",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      },
+      {
+        "name": "CKitchen",
+        "region": "San Diego",
+        "tier": 1,
+        "est_size": "75+",
+        "specialty": "ecommerce_logistics",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      },
+      {
+        "name": "The Restaurant Store",
+        "region": "Central Valley",
+        "tier": 1,
+        "est_size": "60+",
+        "specialty": "distribution",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      }
+    ],
+    "tier_2": [
+      {
+        "name": "Superior Restaurant Equipment",
+        "region": "Bay Area",
+        "tier": 2,
+        "est_size": "25-50",
+        "specialty": "installation",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      },
+      {
+        "name": "California Restaurant Services",
+        "region": "Los Angeles",
+        "tier": 2,
+        "est_size": "30-50",
+        "specialty": "consulting",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      },
+      {
+        "name": "Bay Area Kitchen Supply",
+        "region": "Bay Area",
+        "tier": 2,
+        "est_size": "20-40",
+        "specialty": "logistics",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      },
+      {
+        "name": "Central Cal Equipment",
+        "region": "Central Valley",
+        "tier": 2,
+        "est_size": "25-40",
+        "specialty": "warehousing",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      },
+      {
+        "name": "Valley Restaurant Supply",
+        "region": "Sacramento",
+        "tier": 2,
+        "est_size": "20-35",
+        "specialty": "delivery",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      }
+    ],
+    "tier_3": [
+      {
+        "name": "NorCal Commercial Kitchens",
+        "region": "Sacramento",
+        "tier": 3,
+        "est_size": "10-20",
+        "specialty": "custom",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      },
+      {
+        "name": "Pacific Food Equipment",
+        "region": "San Diego",
+        "tier": 3,
+        "est_size": "15-25",
+        "specialty": "repair",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      },
+      {
+        "name": "Coastline Restaurant Supply",
+        "region": "Los Angeles",
+        "tier": 3,
+        "est_size": "10-20",
+        "specialty": "coastal_delivery",
+        "added_date": "2025-02-22T16:47:00-08:00",
+        "status": "identified"
+      },
+      {
+        "name": "Sierra Kitchen Solutions",
+        "region": "Central Valley",
+        "tier": 3,
+        "est_size": "8-15",
+        "specialty": "rural",
+        "added_date": "2026-02-24T05:37:36.077579",
+        "status": "identified"
+      },
+      {
+        "name": "Metro Kitchen Equipment",
+        "region": "Bay Area",
+        "tier": 3,
+        "est_size": "12-20",
+        "specialty": "urban",
+        "added_date": "2026-02-24T05:37:36.077617",
+        "status": "identified"
+      }
+    ]
+  }
+}

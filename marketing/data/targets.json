@@ -1,0 +1,83 @@
+[
+  {
+    "company": "West Coast Freight Solutions",
+    "region": "Los Angeles Metro",
+    "category": "Freight Forwarders",
+    "size": "50-200 employees",
+    "id": "DLR_48291",
+    "discovered_at": "2026-02-22T08:47:00",
+    "status": "pending_recon"
+  },
+  {
+    "company": "Desert Logistics Inc",
+    "region": "Phoenix Metro",
+    "category": "3PL Providers",
+    "size": "200-500 employees",
+    "id": "DLR_71523",
+    "discovered_at": "2026-02-22T08:47:00",
+    "status": "pending_recon"
+  },
+  {
+    "company": "Borderline Transport",
+    "region": "San Diego County",
+    "category": "Cross-Border Logistics",
+    "size": "20-100 employees",
+    "id": "DLR_33847",
+    "discovered_at": "2026-02-22T08:47:00",
+    "status": "pending_recon"
+  },
+  {
+    "company": "Sierra Cold Chain",
+    "region": "Reno",
+    "category": "Temperature-Controlled Transport",
+    "size": "100-300 employees",
+    "id": "DLR_95204",
+    "discovered_at": "2026-02-22T08:47:00",
+    "status": "pending_recon"
+  },
+  {
+    "company": "SoCal Distribution Hub",
+    "region": "Inland Empire",
+    "category": "Warehousing & Distribution",
+    "size": "500+ employees",
+    "id": "DLR_28476",
+    "discovered_at": "2026-02-22T08:47:00",
+    "status": "pending_recon"
+  },
+  {
+    "company": "LastMile Express",
+    "region": "Orange County",
+    "category": "Last Mile Delivery",
+    "size": "50-200 employees",
+    "id": "DLR_61935",
+    "discovered_at": "2026-02-22T08:47:00",
+    "status": "pending_recon"
+  },
+  {
+    "company": "Ventura Fleet Services",
+    "region": "Ventura County",
+    "category": "Fleet Management Services",
+    "size": "20-100 employees",
+    "id": "DLR_84712",
+    "discovered_at": "2026-02-22T08:47:00",
+    "status": "pending_recon"
+  },
+  {
+    "company": "Tucson Trucking Co",
+    "region": "Tucson",
+    "category": "Freight Forwarders",
+    "size": "50-200 employees",
+    "id": "DLR_50398",
+    "discovered_at": "2026-02-22T08:47:00",
+    "status": "pending_recon"
+  },
+  {
+    "company": "Vegas Valley Logistics",
+    "region": "Las Vegas",
+    "category": "3PL Providers",
+    "size": "200-500 employees",
+    "id": "DLR_27641",
+    "discovered_at": "2026-02-22T08:47:00",
+    "status": "pending_recon"
+  }
+]

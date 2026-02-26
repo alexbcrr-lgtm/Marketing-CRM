@@ -1,0 +1,25 @@
+{
+  "command_center_status": "active",
+  "last_sync": "2026-02-24T05:37:48.814524",
+  "dashboard_url": "file:///C:/Users/alexb/.openclaw/workspace/marketing/command_center.html",
+  "modules": {
+    "target_pipeline": {
+      "status": "active",
+      "count": 14
+    },
+    "intel_recon": {
+      "status": "active",
+      "count": 11
+    },
+    "outreach_queue": {
+      "status": "standby",
+      "count": 0
+    }
+  },
+  "launch_readiness": {
+    "rebrand_date": "2026-02-23",
+    "dealer_list": "complete",
+    "contact_intelligence": "complete",
+    "outreach_templates": "ready"
+  }
+}

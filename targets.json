@@ -1,0 +1,467 @@
+[
+  {
+    "company": "Laguna Design Center",
+    "website": "https://lagunadesigncenter.com",
+    "location": "Laguna Niguel, CA",
+    "description": "Luxury Home Furnishings hub with over 40 showrooms.",
+    "hook": "Partnering with your 40+ showrooms to provide seamless, white-glove installation services for your designer clientele."
+  },
+  {
+    "company": "Thomas Lavin",
+    "website": "https://thomaslavin.com",
+    "location": "Los Angeles & Laguna Niguel, CA",
+    "description": "Leader in exclusive high-end home furnishings, fabrics, and lighting.",
+    "contact_name": "Caitlin Hechinger",
+    "contact_title": "Sales Manager, PDC",
+    "alt_contact": "Jane Turner",
+    "alt_title": "Showroom Manager, LDC",
+    "stage": "Recon Complete",
+    "hook": "Ensuring the international high-end furnishings you represent are installed with the precision and care they deserve."
+  },
+  {
+    "company": "Marc Pridmore Interiors",
+    "website": "https://www.marcpridmoreinteriors.com",
+    "location": "Costa Mesa, CA",
+    "description": "Luxury interior design and 30,000 sq ft furniture showroom.",
+    "hook": "Supporting your extensive luxury showroom and custom designs with dedicated, high-intensity installation support."
+  },
+  {
+    "company": "Ebanista",
+    "website": "https://www.ebanista.com",
+    "location": "Costa Mesa, CA (HQ)",
+    "description": "Handcrafted luxury furniture brand with a focus on custom homes.",
+    "hook": "Providing expert installation for your handcrafted, heirloom-quality pieces in the most exclusive homes in SoCal."
+  },
+  {
+    "company": "Hawkes and Smythe",
+    "website": "https://hawkesandsmythe.com",
+    "location": "Southern California",
+    "description": "Fine furniture showroom carrying brands like EJ Victor and Century Furniture.",
+    "hook": "White-glove installation services for your portfolio of fine furniture brands, from Century to EJ Victor."
+  },
+  {
+    "company": "Cantoni",
+    "website": "https://www.cantoni.com",
+    "location": "Los Angeles, CA",
+    "description": "Modern luxury design showroom with 10,000 sq ft of furnishings.",
+    "hook": "Precision installation for your modern, high-end furniture collections in the heart of Los Angeles."
+  },
+  {
+    "company": "Pacific Design Center",
+    "website": "https://pacificdesigncenter.com",
+    "location": "West Hollywood, CA",
+    "description": "1.6 million-square-foot multi-use facility with over 100 showrooms.",
+    "hook": "Supporting your 100+ showrooms with dedicated, white-glove installation partnerships."
+  },
+  {
+    "company": "Minotti Los Angeles",
+    "website": "https://www.minottila.com",
+    "location": "West Hollywood, CA",
+    "description": "Exclusive high-end Italian furniture showroom.",
+    "hook": "Expert installation for your exclusive Italian furniture collections, ensuring every piece is placed with precision."
+  },
+  {
+    "company": "MASS Beverly",
+    "website": "https://massbeverly.com",
+    "location": "West Hollywood, CA",
+    "description": "Luxury furniture and home design showroom.",
+    "hook": "Precision white-glove installation for your high-caliber design and furniture collections."
+  },
+  {
+    "company": "Molteni & C Flagship Store",
+    "website": "https://www.molteni.it",
+    "location": "West Hollywood, CA",
+    "description": "High-end Italian furniture flagship showroom.",
+    "hook": "Dedicated installation support for your Molteni & C flagship, representing the pinnacle of Italian design."
+  },
+  {
+    "company": "Rose Tarlow Melrose House",
+    "website": "https://rosetarlow.com",
+    "location": "West Hollywood, CA",
+    "description": "Exclusive furniture, fabric, and accessories showroom.",
+    "hook": "Preserving the artistry of Rose Tarlow pieces through meticulous, expert installation services."
+  },
+  {
+    "company": "Kreiss",
+    "website": "https://www.kreiss.com",
+    "location": "West Hollywood, CA",
+    "description": "Luxury home furnishings and interior design.",
+    "hook": "Enhancing the Kreiss experience with high-intensity, white-glove installation for your clients."
+  },
+  {
+    "company": "PeopleSpace",
+    "website": "https://peoplespace.com",
+    "location": "Irvine, CA",
+    "description": "Authorized Haworth dealer for commercial office furniture.",
+    "contact_name": "Jesse Suchmann",
+    "contact_title": "Director of Operations",
+    "stage": "Recon Complete",
+    "hook": "Providing streamlined, high-intensity installation for your Haworth contract projects across SoCal."
+  },
+  {
+    "company": "G|M Business Interiors",
+    "website": "https://www.gmbi.net",
+    "location": "Riverside & San Diego, CA",
+    "description": "Premier Herman Miller (MillerKnoll) authorized dealer.",
+    "contact_name": "Luis Carmona",
+    "contact_title": "Vice President of Operations",
+    "linkedin": "https://www.linkedin.com/in/luis-carmona-08380619",
+    "stage": "Drafting",
+    "hook": "Supporting your Herman Miller workspace designs with efficient, white-glove corporate installation."
+  },
+  {
+    "company": "Pacific Office Interiors",
+    "website": "https://www.pacificoffice.com",
+    "location": "Agoura Hills, CA",
+    "description": "Full-service contract furniture dealership.",
+    "contact_name": "Trey McNamee",
+    "contact_title": "President",
+    "stage": "Recon Complete",
+    "hook": "Helping you deliver seamless office environments with precision installation support."
+  },
+  {
+    "company": "Systems Source",
+    "website": "https://systemsource.com",
+    "location": "Newport Beach, CA",
+    "description": "Major Haworth dealer for commercial interiors.",
+    "contact_name": "Operations Team",
+    "contact_title": "Newport Beach HQ",
+    "intel_note": "Haworth Best in Class dealer - VP Operations level target",
+    "stage": "Recon Complete",
+    "hook": "Your partner for high-conviction office furniture assembly and large-scale contract installs."
+  },
+  {
+    "company": "CBI - Commercial Business Interiors",
+    "website": "https://www.cbi-offices.com",
+    "location": "Southern California",
+    "description": "Contract furniture and space planning experts.",
+    "hook": "Ensuring your commercial office designs are installed with zero friction and maximum precision."
+  },
+  {
+    "company": "Tangram Interiors",
+    "website": "https://www.tangraminteriors.com",
+    "location": "Santa Fe Springs & Newport Beach, CA",
+    "description": "The flagship Steelcase dealer in Southern California.",
+    "contact_name": "Kathy MacIntosh",
+    "contact_title": "Director of Operations",
+    "linkedin": "https://www.linkedin.com/in/brent-troutman-149a47129",
+    "stage": "Drafting",
+    "hook": "Providing high-intensity, expert installation for your Steelcase contract projects across SoCal."
+  },
+  {
+    "company": "M3 Office",
+    "website": "https://www.m3office.com",
+    "location": "Southern California",
+    "description": "Authorized MillerKnoll (Herman Miller + Knoll) Certified Dealer.",
+    "contact_name": "Greg Nietfeld",
+    "contact_title": "General Manager",
+    "intel_note": "Herman Miller Certified Dealer since 1997",
+    "stage": "Recon Complete",
+    "hook": "Supporting your MillerKnoll workspace designs with precision white-glove corporate installation."
+  },
+  {
+    "company": "BOS - Business Office Systems",
+    "website": "https://www.bos.com",
+    "location": "Southern California",
+    "description": "Major Haworth and Kimball dealer.",
+    "contact_name": "Vince Russett",
+    "contact_title": "Vice President, Operations",
+    "alt_contact": "Erik Borchers",
+    "alt_title": "Director, Field Operations",
+    "stage": "Recon Complete",
+    "hook": "Expert installation for your Haworth and Kimball workspace solutions, ensuring operational excellence."
+  },
+  {
+    "company": "National Business Furniture",
+    "website": "https://www.nationalbusinessfurniture.com",
+    "location": "Southern California",
+    "description": "Major furniture retailer for business and home office.",
+    "contact_name": "Operations Team",
+    "contact_title": "West Coast Operations",
+    "intel_note": "High-volume retailer - logistics partnership opportunity",
+    "stage": "Recon Complete",
+    "hook": "Scaling our logistics partnership to handle your increasing project volume across SoCal."
+  },
+  {
+    "company": "Vertex Interiors",
+    "website": "https://vertex-interiors.com",
+    "location": "Southern California",
+    "description": "Commercial interior solutions and furniture.",
+    "hook": "Providing the high-intensity logistics backbone your interior projects demand."
+  },
+  {
+    "company": "United Office Solutions",
+    "website": "https://www.unitedos.com",
+    "location": "Southern California",
+    "description": "Full-service office furniture and design.",
+    "contact_name": "Operations Director",
+    "contact_title": "Warehouse Operations",
+    "intel_note": "Enterprise-scale fulfillment target",
+    "stage": "Recon Complete",
+    "hook": "Strengthening our partnership with enterprise-scale receiving and installation force."
+  },
+  {
+    "company": "Corporate Office Interiors (COI)",
+    "website": "https://www.coisf.com",
+    "location": "Southern California",
+    "description": "Major HON and Allsteel dealer.",
+    "contact_name": "Operations Manager",
+    "contact_title": "Project Logistics",
+    "intel_note": "HON high-volume dealer - installation partner target",
+    "stage": "Recon Complete",
+    "hook": "Streamlining your high-volume HON and Allsteel deployments with our 20k sqft hub."
+  },
+  {
+    "company": "Western Office",
+    "website": "https://www.westernoffice.com",
+    "location": "Los Angeles, CA",
+    "description": "Leading Knoll and MillerKnoll dealer.",
+    "hook": "Meticulous installation for your Knoll and MillerKnoll collections in the LA business district.",
+    "contact_name": "Diane Spero",
+    "contact_title": "President",
+    "stage": "Recon Complete"
+  },
+  {
+    "company": "KBM-Hogue",
+    "website": "https://www.kbm-hogue.com",
+    "location": "Southern California",
+    "description": "Major Knoll and Kimball partner.",
+    "contact_name": "Operations Director",
+    "contact_title": "Installation Services",
+    "intel_note": "MillerKnoll dealer - Kimball specialist",
+    "stage": "Recon Complete",
+    "hook": "Partnering with you to deliver high-end Knoll and Kimball office environments with precision."
+  },
+  {
+    "company": "Unisource Solutions",
+    "website": "https://www.unisourcesolutions.com",
+    "location": "Los Angeles & San Diego, CA",
+    "description": "Premier Haworth dealer and facility management firm.",
+    "hook": "Integrating our 20k sqft hub into your Haworth supply chain for high-volume contract fulfillment.",
+    "contact_name": "Jim Sincock",
+    "contact_title": "COO",
+    "stage": "Recon Complete"
+  },
+  {
+    "company": "Cube World USA",
+    "website": "http://cubeworldusa.com",
+    "location": "Westminster, CA",
+    "description": "Office furniture and workstation specialists.",
+    "hook": "Providing scalable installation force for your workstation deployments across Orange County."
+  },
+  {
+    "company": "National Office Interiors",
+    "website": "https://nationalofficeinteriors.com",
+    "location": "Tustin, CA",
+    "description": "Major retailer and liquidator of premium office brands.",
+    "hook": "Scalable receiving and installation support for your high-volume furniture liquidations and installs."
+  },
+  {
+    "company": "MFC Office Furniture",
+    "website": "https://mfcofficefurniture.com",
+    "location": "Los Angeles, CA",
+    "description": "Comprehensive office furniture solutions provider.",
+    "hook": "Your Los Angeles logistics backbone for high-intensity corporate furniture deployments."
+  },
+  {
+    "company": "Tri County Office Furniture",
+    "website": "http://www.tcof.com",
+    "location": "Southern California",
+    "description": "Premier dealer for Herman Miller and Knoll.",
+    "hook": "Precision logistics and white-glove installation for your premium Herman Miller and Knoll collections."
+  },
+  {
+    "company": "Contract Interiors",
+    "website": "https://www.contractinteriors.com",
+    "location": "San Diego, CA",
+    "description": "Major Steelcase dealer in San Diego.",
+    "hook": "The San Diego infrastructure partner for your enterprise-scale Steelcase installations."
+  },
+  {
+    "company": "Office Furniture Concepts",
+    "website": "https://officefurnitureconcepts.com",
+    "location": "Southern California",
+    "description": "High-end office furniture and space planning.",
+    "hook": "Supporting your high-end design concepts with high-intensity, expert installation teams.",
+    "contact_name": "Adam Seid",
+    "contact_title": "President",
+    "stage": "Recon Complete"
+  },
+  {
+    "company": "OES Office & Education Solutions",
+    "website": "https://www.oesofficefurniture.com",
+    "location": "South Gate & Rancho Cucamonga, CA",
+    "description": "Major HON and specialized education furniture dealer.",
+    "hook": "The logistics force for your high-volume HON and education project deployments."
+  },
+  {
+    "company": "Pivot Interiors",
+    "website": "https://www.pivotinteriors.com",
+    "location": "Los Angeles, OC & SD, CA",
+    "description": "Major MillerKnoll (Herman Miller) dealer.",
+    "contact_name": "Ken Sager",
+    "contact_title": "President",
+    "stage": "Recon Complete",
+    "hook": "Integrating our infrastructure into your enterprise-scale MillerKnoll projects across SoCal."
+  },
+  {
+    "company": "Interior Office Solutions (IOS)",
+    "website": "https://www.ios-inc.com",
+    "location": "Irvine & Los Angeles, CA",
+    "description": "Major Steelcase dealer.",
+    "contact_name": "Jim Deitrich",
+    "contact_title": "Operations Manager",
+    "alt_contact": "Joe Hartings",
+    "alt_title": "Installation Manager",
+    "stage": "Recon Complete",
+    "hook": "Your Southern California hub for seamless Steelcase project fulfillment and installation."
+  },
+  {
+    "company": "Source Creative Office Interiors",
+    "website": "https://sourcecoi.com",
+    "location": "Southern California",
+    "description": "Full-service commercial furniture dealership.",
+    "hook": "Scalable logistics and installation power for your creative office environment projects.",
+    "contact_name": "Shelley Sayer",
+    "contact_title": "CEO",
+    "stage": "Recon Complete"
+  },
+  {
+    "company": "b + c Office Interiors",
+    "website": "https://www.bcfurn.com",
+    "location": "San Diego, CA",
+    "description": "San Diego's Select Kimball furniture dealer.",
+    "hook": "Precision installation force for your Kimball portfolio in the San Diego market."
+  },
+  {
+    "company": "Eaton Office Supply",
+    "website": "https://www.eatonoffice.com",
+    "location": "Southern California",
+    "description": "Authorized HON dealer and office solutions provider.",
+    "hook": "Streamlining your HON project deliveries with our high-throughput logistics center."
+  },
+  {
+    "company": "Tanner Furniture",
+    "website": "https://tannerfurniture.com",
+    "location": "Southern California",
+    "description": "Major commercial office furniture dealer.",
+    "hook": "High-intensity installation support for your corporate furniture project volume."
+  },
+  {
+    "company": "L-M Office Furniture",
+    "website": "https://lmofficefurniture.com",
+    "location": "Southern California",
+    "description": "Provider of commercial office furniture solutions.",
+    "hook": "Your logistics backbone for reliable, end-to-end office furniture deployment."
+  },
+  {
+    "company": "Sidemark",
+    "website": "https://www.sidemark.com",
+    "location": "Los Angeles & Orange County, CA",
+    "description": "Major Teknion dealer.",
+    "hook": "Integrating our 20k sqft hub into your Teknion supply chain for high-volume fulfillment."
+  },
+  {
+    "company": "Seeley Brothers",
+    "website": "https://seeleybrothers.com",
+    "location": "Southern California",
+    "description": "Large-scale commercial furniture and architectural products.",
+    "hook": "Providing the heavy-duty logistics and installation force your large-scale projects demand.",
+    "contact_name": "Jim Seeley",
+    "contact_title": "Principal",
+    "stage": "Recon Complete"
+  },
+  {
+    "company": "BKM Office Works",
+    "website": "https://bkmofficeworks.com",
+    "location": "San Diego, CA",
+    "description": "Premier Herman Miller and Knoll dealer in San Diego.",
+    "hook": "Precision logistics backbone for your Herman Miller & Knoll portfolio in the San Diego market.",
+    "contact_name": "Brian Justus",
+    "contact_title": "President",
+    "stage": "Recon Complete"
+  },
+  {
+    "company": "Inside Office Solutions",
+    "website": "https://insideoffice.com",
+    "location": "Southern California",
+    "description": "Full-service contract furniture dealership.",
+    "hook": "Integrating our 20k sqft hub into your complex interior project workflows."
+  },
+  {
+    "company": "Workscapes",
+    "website": "https://workscapes.com",
+    "location": "Southern California",
+    "description": "Herman Miller authorized dealer and workspace experts.",
+    "hook": "The regional fulfillment partner for your high-volume Herman Miller deployments.",
+    "contact_name": "Elizabeth Dvorak",
+    "contact_title": "CEO",
+    "stage": "Recon Complete"
+  },
+  {
+    "company": "Empire Office",
+    "website": "https://www.empireoffice.com",
+    "location": "Los Angeles & Newport Beach, CA",
+    "description": "The world's largest commercial furniture dealer (Steelcase).",
+    "hook": "Providing massive regional infrastructure for your enterprise Steelcase projects in SoCal.",
+    "contact_name": "Peter J. Greene",
+    "contact_title": "President & CEO",
+    "stage": "Recon Complete"
+  },
+  {
+    "company": "Corporate Interiors",
+    "website": "https://corporate-interiors.com",
+    "location": "San Diego, CA",
+    "description": "Major Steelcase dealer and workspace technology firm.",
+    "contact_name": "Jill Porter",
+    "contact_title": "VP, Operations",
+    "alt_contact": "Kevin Ennis",
+    "alt_title": "Chief Operating Officer",
+    "stage": "Recon Complete",
+    "hook": "Scalable logistics and installation force for your San Diego Steelcase operations."
+  },
+  {
+    "company": "Inside Source",
+    "website": "https://insidesource.com",
+    "location": "Southern California",
+    "description": "Leading Teknion dealer and interior design firm.",
+    "hook": "Streamlining your Teknion supply chain with our high-throughput fulfillment center."
+  },
+  {
+    "company": "Catalyst Office",
+    "website": "https://catalystoffice.com",
+    "location": "Southern California",
+    "description": "Major Herman Miller dealer with deep corporate expertise.",
+    "hook": "Your logistics infrastructure partner for high-intensity Herman Miller installs."
+  },
+  {
+    "company": "One Workplace",
+    "website": "https://oneworkplace.com",
+    "location": "Southern California",
+    "description": "Steelcase dealer and interior transformation firm.",
+    "hook": "Positioning our 20k sqft hub as the backbone for your Southern California projects.",
+    "contact_name": "Dave Giambruno",
+    "contact_title": "CIO / Operations",
+    "stage": "Recon Complete"
+  },
+  {
+    "company": "Corporate Furniture Solutions (CFS)",
+    "website": "https://cfs-la.com",
+    "location": "Los Angeles, CA",
+    "description": "High-end contract furniture provider.",
+    "hook": "Scalable installation and receiving support for your premium LA project volume.",
+    "contact_name": "Bill Knighton",
+    "contact_title": "President",
+    "stage": "Recon Complete"
+  },
+  {
+    "company": "Office Furniture World",
+    "website": "https://officefurnitureworld.com",
+    "location": "Southern California",
+    "description": "Comprehensive office furniture retailer and dealer.",
+    "hook": "Enhancing your delivery throughput with our regional logistics powerhouse.",
+    "contact_name": "Rick Mintz",
+    "contact_title": "President",
+    "stage": "Recon Complete"
+  }
+]

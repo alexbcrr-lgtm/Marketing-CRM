@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IC_LOGISTICS Command Center</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0f0f0f;
+            color: #fff;
+            padding: 20px;
+        }
+        .header { 
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border-left: 4px solid #00d4ff;
+        }
+        .header h1 { font-size: 28px; margin-bottom: 8px; }
+        .header p { color: #888; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 30px; }
+        .card {
+            background: #1a1a1a;
+            border-radius: 12px;
+            padding: 24px;
+            border: 1px solid #333;
+        }
+        .card h3 { color: #00d4ff; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; }
+        .metric { font-size: 48px; font-weight: 700; margin-bottom: 8px; }
+        .metric.small { font-size: 36px; }
+        .label { color: #888; font-size: 14px; }
+        .tier-bar { display: flex; gap: 8px; margin-top: 16px; }
+        .tier { flex: 1; padding: 12px; border-radius: 8px; text-align: center; }
+        .tier-1 { background: #ff4444; }
+        .tier-2 { background: #ffaa00; }
+        .tier-3 { background: #00aa44; }
+        .status { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; }
+        .status-ready { background: #00aa44; color: #000; }
+        .status-pending { background: #ffaa00; color: #000; }
+        .status-standby { background: #444; }
+        .launch-timer {
+            background: linear-gradient(135deg, #ff4444 0%, #ff8800 100%);
+            padding: 24px;
+            border-radius: 12px;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .launch-timer h2 { margin-bottom: 8px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 16px; }
+        th, td { text-align: left; padding: 12px; border-bottom: 1px solid #333; }
+        th { color: #888; font-weight: 500; }
+        tr:hover { background: #222; }
+        .sync-time { color: #666; font-size: 12px; margin-top: 20px; text-align: right; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🚛 IC_LOGISTICS Command Center</h1>
+        <p>Commercial Kitchen Equipment Installation • Dealer Partnership Intelligence</p>
+    </div>
+    
+    <div class="launch-timer">
+        <h2>🚀 REBRAND LAUNCH: MONDAY FEBRUARY 23, 2025</h2>
+        <p>All systems preparing for go-live. NO OUTREACH until launch.</p>
+    </div>
+    
+    <div class="grid">
+        <div class="card">
+            <h3>📊 Total Dealer Targets</h3>
+            <div class="metric">14</div>
+            <div class="label">Identified prospects</div>
+            <div class="tier-bar">
+                <div class="tier tier-1">T1: 4</div>
+                <div class="tier tier-2">T2: 5</div>
+                <div class="tier tier-3">T3: 5</div>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h3>👤 Operations Manager Intel</h3>
+            <div class="metric">11</div>
+            <div class="label">Contacts with LinkedIn profiles</div>
+            <div style="margin-top: 12px;">
+                <span class="status status-pending">Enrichment Pending</span>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h3>📧 Outreach Queue</h3>
+            <div class="metric small">LOCKED</div>
+            <div class="label">Emails queued for Monday launch</div>
+            <div style="margin-top: 12px;">
+                <span class="status status-standby">STANDBY</span>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h3>✅ Launch Readiness</h3>
+            <div class="metric small" style="color: #ffaa00;">85%</div>
+            <div class="label">Pre-launch checklist</div>
+            <div style="margin-top: 12px; font-size: 13px; color: #888;">
+                ✓ Dealer list compiled<br>
+                ✓ Intel gathering active<br>
+                ⏳ Email templates final review<br>
+                ✗ Outreach (post-launch only)
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <h3>🎯 Priority Targets (Tier 1)</h3>
+        <table>
+            <tr>
+                <th>Dealer</th>
+                <th>Region</th>
+                <th>Est. Size</th>
+                <th>Specialty</th>
+                <th>Status</th>
+            </tr>
+
+            <tr>
+                <td><strong>Restaurant Equipment World</strong></td>
+                <td>Bay Area</td>
+                <td>50+</td>
+                <td>Full Service</td>
+                <td><span class="status status-ready">Ready</span></td>
+            </tr>
+
+            <tr>
+                <td><strong>Mission Restaurant Supply</strong></td>
+                <td>Los Angeles</td>
+                <td>100+</td>
+                <td>Logistics Heavy</td>
+                <td><span class="status status-ready">Ready</span></td>
+            </tr>
+
+            <tr>
+                <td><strong>CKitchen</strong></td>
+                <td>San Diego</td>
+                <td>75+</td>
+                <td>Ecommerce Logistics</td>
+                <td><span class="status status-ready">Ready</span></td>
+            </tr>
+
+            <tr>
+                <td><strong>The Restaurant Store</strong></td>
+                <td>Central Valley</td>
+                <td>60+</td>
+                <td>Distribution</td>
+                <td><span class="status status-ready">Ready</span></td>
+            </tr>
+
+        </table>
+    </div>
+    
+    <div class="card">
+        <h3>👔 Key Contacts Identified</h3>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Dealer</th>
+                <th>Title</th>
+                <th>LinkedIn</th>
+            </tr>
+
+            <tr>
+                <td>Michael Torres</td>
+                <td>Restaurant Equipment World</td>
+                <td>Operations Manager</td>
+                <td><a href="https://linkedin.com/in/michael-torres-ops" style="color: #00d4ff;">View Profile</a></td>
+            </tr>
+
+            <tr>
+                <td>Sarah Chen</td>
+                <td>Restaurant Equipment World</td>
+                <td>Director of Logistics</td>
+                <td><a href="https://linkedin.com/in/sarah-chen-logistics" style="color: #00d4ff;">View Profile</a></td>
+            </tr>
+
+            <tr>
+                <td>James Rodriguez</td>
+                <td>Mission Restaurant Supply</td>
+                <td>VP Operations</td>
+                <td><a href="https://linkedin.com/in/james-rodriguez-vp" style="color: #00d4ff;">View Profile</a></td>
+            </tr>
+
+            <tr>
+                <td>Lisa Park</td>
+                <td>Mission Restaurant Supply</td>
+                <td>Operations Manager</td>
+                <td><a href="https://linkedin.com/in/lisa-park-ops" style="color: #00d4ff;">View Profile</a></td>
+            </tr>
+
+            <tr>
+                <td>David Kim</td>
+                <td>CKitchen</td>
+                <td>Supply Chain Manager</td>
+                <td><a href="https://linkedin.com/in/david-kim-supply" style="color: #00d4ff;">View Profile</a></td>
+            </tr>
+
+            <tr>
+                <td>Amanda Foster</td>
+                <td>The Restaurant Store</td>
+                <td>Operations Director</td>
+                <td><a href="https://linkedin.com/in/amanda-foster-ops" style="color: #00d4ff;">View Profile</a></td>
+            </tr>
+
+            <tr>
+                <td>Robert Chang</td>
+                <td>Superior Restaurant Equipment</td>
+                <td>General Manager</td>
+                <td><a href="https://linkedin.com/in/robert-chang-gm" style="color: #00d4ff;">View Profile</a></td>
+            </tr>
+
+            <tr>
+                <td>Jennifer Walsh</td>
+                <td>California Restaurant Services</td>
+                <td>Operations Manager</td>
+                <td><a href="https://linkedin.com/in/jennifer-walsh-ops" style="color: #00d4ff;">View Profile</a></td>
+            </tr>
+
+        </table>
+    </div>
+    
+    <div class="sync-time">Last synced: 2026-02-25 17:05:38 PST</div>
+</body>
+</html>

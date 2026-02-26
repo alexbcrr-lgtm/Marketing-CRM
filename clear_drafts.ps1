@@ -1,0 +1,1 @@
+﻿$ol = New-Object -ComObject Outlook.Application; $drafts = $ol.Session.GetDefaultFolder(16); $count = $drafts.Items.Count; for ($i = $count; $i -ge 1; $i--) { $drafts.Items.Item($i).Delete() }; Write-Host "Deleted $count drafts" -ForegroundColor Green

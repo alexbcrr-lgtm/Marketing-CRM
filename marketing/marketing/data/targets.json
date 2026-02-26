@@ -1,0 +1,74 @@
+[
+  {
+    "company": "West Coast Freight Solutions",
+    "region": "Los Angeles Metro",
+    "category": "Freight Forwarders",
+    "size": "50-200 employees",
+    "id": "DLR_81610",
+    "discovered_at": "2026-02-22T04:49:34.209343",
+    "status": "pending_recon"
+  },
+  {
+    "company": "Borderline Transport",
+    "region": "San Diego County",
+    "category": "Cross-Border Logistics",
+    "size": "20-100 employees",
+    "id": "DLR_27784",
+    "discovered_at": "2026-02-22T04:49:34.209370",
+    "status": "pending_recon"
+  },
+  {
+    "company": "SoCal Distribution Hub",
+    "region": "Inland Empire",
+    "category": "Warehousing & Distribution",
+    "size": "500+ employees",
+    "id": "DLR_42495",
+    "discovered_at": "2026-02-22T04:49:34.209374",
+    "status": "pending_recon"
+  },
+  {
+    "company": "Ventura Fleet Services",
+    "region": "Ventura County",
+    "category": "Fleet Management Services",
+    "size": "20-100 employees",
+    "id": "DLR_29226",
+    "discovered_at": "2026-02-22T04:49:34.209377",
+    "status": "pending_recon"
+  },
+  {
+    "company": "Vegas Valley Logistics",
+    "region": "Las Vegas",
+    "category": "3PL Providers",
+    "size": "200-500 employees",
+    "id": "DLR_50557",
+    "discovered_at": "2026-02-22T04:49:34.209380",
+    "status": "pending_recon"
+  },
+  {
+    "company": "Pacific Cold Storage",
+    "region": "Los Angeles Metro",
+    "category": "Temperature-Controlled Transport",
+    "size": "100-300 employees",
+    "id": "DLR_27459",
+    "discovered_at": "2026-02-22T04:49:34.209382",
+    "status": "pending_recon"
+  },
+  {
+    "company": "SD Courier Network",
+    "region": "San Diego County",
+    "category": "Last Mile Delivery",
+    "size": "20-100 employees",
+    "id": "DLR_87174",
+    "discovered_at": "2026-02-22T04:49:34.209388",
+    "status": "pending_recon"
+  },
+  {
+    "company": "Riverside Warehouse Group",
+    "region": "Inland Empire",
+    "category": "Warehousing & Distribution",
+    "size": "200-500 employees",
+    "id": "DLR_78282",
+    "discovered_at": "2026-02-22T04:49:34.209390",
+    "status": "pending_recon"
+  }
+]

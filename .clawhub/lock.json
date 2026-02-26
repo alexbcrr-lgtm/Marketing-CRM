@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "nutrient-openclaw": {
+      "version": "1.1.0",
+      "installedAt": 1770877836343
+    },
+    "web-search": {
+      "version": "1.0.0",
+      "installedAt": 1770878698662
+    },
+    "session-logs": {
+      "version": "1.0.0",
+      "installedAt": 1770878706208
+    },
+    "duckduckgo-search": {
+      "version": "1.0.0",
+      "installedAt": 1770878824837
+    },
+    "financial-planning": {
+      "version": "0.1.0",
+      "installedAt": 1771048388295
+    }
+  }
+}

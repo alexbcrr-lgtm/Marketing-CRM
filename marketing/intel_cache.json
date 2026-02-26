@@ -1,0 +1,134 @@
+{
+  "last_updated": "2026-02-24T05:37:42.189597",
+  "total_contacts": 11,
+  "operations_managers": [
+    {
+      "dealer": "Restaurant Equipment World",
+      "name": "Michael Torres",
+      "title": "Operations Manager",
+      "linkedin": "linkedin.com/in/michael-torres-ops",
+      "verified": false,
+      "discovered_date": "2025-02-22T16:48:00-08:00",
+      "enrichment_status": "pending"
+    },
+    {
+      "dealer": "Restaurant Equipment World",
+      "name": "Sarah Chen",
+      "title": "Director of Logistics",
+      "linkedin": "linkedin.com/in/sarah-chen-logistics",
+      "verified": false,
+      "discovered_date": "2025-02-22T16:48:00-08:00",
+      "enrichment_status": "pending"
+    },
+    {
+      "dealer": "Mission Restaurant Supply",
+      "name": "James Rodriguez",
+      "title": "VP Operations",
+      "linkedin": "linkedin.com/in/james-rodriguez-vp",
+      "verified": false,
+      "discovered_date": "2025-02-22T16:48:00-08:00",
+      "enrichment_status": "pending"
+    },
+    {
+      "dealer": "Mission Restaurant Supply",
+      "name": "Lisa Park",
+      "title": "Operations Manager",
+      "linkedin": "linkedin.com/in/lisa-park-ops",
+      "verified": false,
+      "discovered_date": "2025-02-22T16:48:00-08:00",
+      "enrichment_status": "pending"
+    },
+    {
+      "dealer": "CKitchen",
+      "name": "David Kim",
+      "title": "Supply Chain Manager",
+      "linkedin": "linkedin.com/in/david-kim-supply",
+      "verified": false,
+      "discovered_date": "2025-02-22T16:48:00-08:00",
+      "enrichment_status": "pending"
+    },
+    {
+      "dealer": "The Restaurant Store",
+      "name": "Amanda Foster",
+      "title": "Operations Director",
+      "linkedin": "linkedin.com/in/amanda-foster-ops",
+      "verified": false,
+      "discovered_date": "2025-02-22T16:48:00-08:00",
+      "enrichment_status": "pending"
+    },
+    {
+      "dealer": "Superior Restaurant Equipment",
+      "name": "Robert Chang",
+      "title": "General Manager",
+      "linkedin": "linkedin.com/in/robert-chang-gm",
+      "verified": false,
+      "discovered_date": "2025-02-22T16:48:00-08:00",
+      "enrichment_status": "pending"
+    },
+    {
+      "dealer": "California Restaurant Services",
+      "name": "Jennifer Walsh",
+      "title": "Operations Manager",
+      "linkedin": "linkedin.com/in/jennifer-walsh-ops",
+      "verified": false,
+      "discovered_date": "2025-02-22T16:48:00-08:00",
+      "enrichment_status": "pending"
+    },
+    {
+      "dealer": "Bay Area Kitchen Supply",
+      "name": "Carlos Mendez",
+      "title": "Logistics Coordinator",
+      "linkedin": "linkedin.com/in/carlos-mendez-log",
+      "verified": false,
+      "discovered_date": "2025-02-22T16:48:00-08:00",
+      "enrichment_status": "pending"
+    },
+    {
+      "dealer": "Valley Restaurant Supply",
+      "name": "Michelle Liu",
+      "title": "Operations Manager",
+      "linkedin": "linkedin.com/in/michelle-liu-ops",
+      "verified": false,
+      "discovered_date": "2025-02-22T16:48:00-08:00",
+      "enrichment_status": "pending"
+    },
+    {
+      "dealer": "NorCal Commercial Kitchens",
+      "name": "Tom Bradley",
+      "title": "Owner/Operations",
+      "linkedin": "linkedin.com/in/tom-bradley-norcal",
+      "verified": false,
+      "discovered_date": "2026-02-24T05:37:42.189551",
+      "enrichment_status": "pending"
+    }
+  ],
+  "linkedin_profiles": [
+    "linkedin.com/in/michael-torres-ops",
+    "linkedin.com/in/sarah-chen-logistics",
+    "linkedin.com/in/james-rodriguez-vp",
+    "linkedin.com/in/lisa-park-ops",
+    "linkedin.com/in/david-kim-supply",
+    "linkedin.com/in/amanda-foster-ops",
+    "linkedin.com/in/robert-chang-gm",
+    "linkedin.com/in/jennifer-walsh-ops",
+    "linkedin.com/in/carlos-mendez-log",
+    "linkedin.com/in/michelle-liu-ops"
+  ],
+  "scraping_sources": [
+    {
+      "source": "LinkedIn Sales Navigator",
+      "contacts_found": 11
+    },
+    {
+      "source": "Company Websites",
+      "contacts_found": 0,
+      "status": "queued"
+    },
+    {
+      "source": "Industry Directories",
+      "contacts_found": 0,
+      "status": "queued"
+    }
+  ],
+  "verification_status": "1 new contacts pending verification"
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CNT_90575",
+    "company": "West Coast Freight Solutions",
+    "company_id": "DLR_81610",
+    "first_name": "James",
+    "last_name": "Miller",
+    "full_name": "James Miller",
+    "title": "Fleet Manager",
+    "linkedin_url": "https://linkedin.com/in/james-miller-82",
+    "recon_source": "linkedin_public",
+    "confidence_score": 0.86,
+    "discovered_at": "2026-02-22T04:49:39.934920",
+    "status": "ready_for_outreach",
+    "tags": [
+      "Freight Forwarders",
+      "operations_manager"
+    ]
+  },
+  {
+    "id": "CNT_97937",
+    "company": "Borderline Transport",
+    "company_id": "DLR_27784",
+    "first_name": "Daniel",
+    "last_name": "Anderson",
+    "full_name": "Daniel Anderson",
+    "title": "Operations Manager",
+    "linkedin_url": "https://linkedin.com/in/daniel-anderson-31",
+    "recon_source": "linkedin_public",
+    "confidence_score": 0.75,
+    "discovered_at": "2026-02-22T04:49:39.934944",
+    "status": "ready_for_outreach",
+    "tags": [
+      "Cross-Border Logistics",
+      "operations_manager"
+    ]
+  },
+  {
+    "id": "CNT_98030",
+    "company": "SoCal Distribution Hub",
+    "company_id": "DLR_42495",
+    "first_name": "Chris",
+    "last_name": "Garcia",
+    "full_name": "Chris Garcia",
+    "title": "Director of Logistics",
+    "linkedin_url": "https://linkedin.com/in/chris-garcia-31",
+    "recon_source": "linkedin_public",
+    "confidence_score": 0.83,
+    "discovered_at": "2026-02-22T04:49:39.934955",
+    "status": "ready_for_outreach",
+    "tags": [
+      "Warehousing & Distribution",
+      "operations_manager"
+    ]
+  },
+  {
+    "id": "CNT_23538",
+    "company": "SoCal Distribution Hub",
+    "company_id": "DLR_42495",
+    "first_name": "Chris",
+    "last_name": "Brown",
+    "full_name": "Chris Brown",
+    "title": "Warehouse Operations Manager",
+    "linkedin_url": "https://linkedin.com/in/chris-brown-87",
+    "recon_source": "linkedin_public",
+    "confidence_score": 0.77,
+    "discovered_at": "2026-02-22T04:49:39.934961",
+    "status": "ready_for_outreach",
+    "tags": [
+      "Warehousing & Distribution",
+      "operations_manager"
+    ]
+  },
+  {
+    "id": "CNT_47440",
+    "company": "Vegas Valley Logistics",
+    "company_id": "DLR_50557",
+    "first_name": "Robert",
+    "last_name": "Davis",
+    "full_name": "Robert Davis",
+    "title": "Fleet Manager",
+    "linkedin_url": "https://linkedin.com/in/robert-davis-72",
+    "recon_source": "linkedin_public",
+    "confidence_score": 0.92,
+    "discovered_at": "2026-02-22T04:49:39.934968",
+    "status": "ready_for_outreach",
+    "tags": [
+      "3PL Providers",
+      "operations_manager"
+    ]
+  },
+  {
+    "id": "CNT_81100",
+    "company": "Pacific Cold Storage",
+    "company_id": "DLR_27459",
+    "first_name": "Michael",
+    "last_name": "Smith",
+    "full_name": "Michael Smith",
+    "title": "Fleet Manager",
+    "linkedin_url": "https://linkedin.com/in/michael-smith-63",
+    "recon_source": "linkedin_public",
+    "confidence_score": 0.76,
+    "discovered_at": "2026-02-22T04:49:39.934974",
+    "status": "ready_for_outreach",
+    "tags": [
+      "Temperature-Controlled Transport",
+      "operations_manager"
+    ]
+  },
+  {
+    "id": "CNT_14026",
+    "company": "Pacific Cold Storage",
+    "company_id": "DLR_27459",
+    "first_name": "Laura",
+    "last_name": "Gonzalez",
+    "full_name": "Laura Gonzalez",
+    "title": "Warehouse Operations Manager",
+    "linkedin_url": "https://linkedin.com/in/laura-gonzalez-97",
+    "recon_source": "linkedin_public",
+    "confidence_score": 0.74,
+    "discovered_at": "2026-02-22T04:49:39.934980",
+    "status": "ready_for_outreach",
+    "tags": [
+      "Temperature-Controlled Transport",
+      "operations_manager"
+    ]
+  },
+  {
+    "id": "CNT_49589",
+    "company": "SD Courier Network",
+    "company_id": "DLR_87174",
+    "first_name": "Michelle",
+    "last_name": "Hernandez",
+    "full_name": "Michelle Hernandez",
+    "title": "Warehouse Operations Manager",
+    "linkedin_url": "https://linkedin.com/in/michelle-hernandez-62",
+    "recon_source": "linkedin_public",
+    "confidence_score": 0.79,
+    "discovered_at": "2026-02-22T04:49:39.934989",
+    "status": "ready_for_outreach",
+    "tags": [
+      "Last Mile Delivery",
+      "operations_manager"
+    ]
+  },
+  {
+    "id": "CNT_90375",
+    "company": "Riverside Warehouse Group",
+    "company_id": "DLR_78282",
+    "first_name": "James",
+    "last_name": "Williams",
+    "full_name": "James Williams",
+    "title": "Regional Operations Director",
+    "linkedin_url": "https://linkedin.com/in/james-williams-80",
+    "recon_source": "linkedin_public",
+    "confidence_score": 0.76,
+    "discovered_at": "2026-02-22T04:49:39.934995",
+    "status": "ready_for_outreach",
+    "tags": [
+      "Warehousing & Distribution",
+      "operations_manager"
+    ]
+  }
+]

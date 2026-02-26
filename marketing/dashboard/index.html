@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IC_LOGISTICS Command Center</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #eaeaea;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 30px 0;
+            border-bottom: 2px solid #0f3460;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 2.5em;
+            color: #e94560;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+        .header .subtitle {
+            color: #a0a0a0;
+            margin-top: 10px;
+            font-size: 1.1em;
+        }
+        .header .timestamp {
+            color: #e94560;
+            margin-top: 15px;
+            font-family: monospace;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        .card {
+            background: rgba(15, 52, 96, 0.3);
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid #0f3460;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(233, 69, 96, 0.2);
+        }
+        .card h2 {
+            color: #e94560;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+            border-bottom: 1px solid #0f3460;
+            padding-bottom: 10px;
+        }
+        .stat {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .stat:last-child {
+            border-bottom: none;
+        }
+        .stat-value {
+            font-weight: bold;
+            color: #00d9ff;
+            font-size: 1.2em;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            margin-left: 10px;
+        }
+        .status-ready { background: #00d9ff; color: #000; }
+        .status-pending { background: #ffa500; color: #000; }
+        .alert {
+            background: rgba(233, 69, 96, 0.2);
+            border-left: 4px solid #e94560;
+            padding: 20px;
+            margin: 30px auto;
+            max-width: 1400px;
+            border-radius: 0 10px 10px 0;
+        }
+        .alert h3 {
+            color: #e94560;
+            margin-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+            font-size: 0.9em;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #0f3460;
+        }
+        th {
+            color: #e94560;
+            font-weight: 600;
+        }
+        tr:hover {
+            background: rgba(233, 69, 96, 0.1);
+        }
+        .launch-countdown {
+            background: linear-gradient(135deg, #e94560 0%, #ff6b6b 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            margin: 30px auto;
+            max-width: 1400px;
+        }
+        .launch-countdown h2 {
+            font-size: 1.8em;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>IC_LOGISTICS Command Center</h1>
+        <div class="subtitle">Intel Operations Dashboard</div>
+        <div class="timestamp">Last Updated: 2026-02-22 08:48:00 PST</div>
+    </div>
+    
+    <div class="launch-countdown">
+        <h2>MONDAY REBRAND LAUNCH</h2>
+        <p style="font-size: 1.3em;">All systems ready for outreach initiation</p>
+        <p style="margin-top: 15px; opacity: 0.9;">Remember: NO OUTREACH until launch authorization</p>
+    </div>
+    
+    <div class="alert">
+        <h3>PROTOCOL REMINDER</h3>
+        <p>This dashboard contains pre-launch intel. All outreach is currently <strong>LOCKED</strong> until Monday rebrand launch. 
+        Current phase: INTELLIGENCE GATHERING ONLY.</p>
+    </div>
+    
+    <div class="grid">
+        <div class="card">
+            <h2>Target Acquisition</h2>
+            <div class="stat">
+                <span>Total Targets</span>
+                <span class="stat-value">9</span>
+            </div>
+            <div class="stat">
+                <span>Pending Recon</span>
+                <span class="stat-value">9</span>
+            </div>
+            <div class="stat">
+                <span>Ready for Outreach</span>
+                <span class="stat-value">0</span>
+            </div>
+            <div class="stat">
+                <span>Regions Covered</span>
+                <span class="stat-value">9</span>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h2>Contact Intelligence</h2>
+            <div class="stat">
+                <span>Total Contacts</span>
+                <span class="stat-value">12</span>
+            </div>
+            <div class="stat">
+                <span>LinkedIn Profiles</span>
+                <span class="stat-value">12</span>
+            </div>
+            <div class="stat">
+                <span>High Confidence</span>
+                <span class="stat-value">9</span>
+            </div>
+            <div class="stat">
+                <span>Ops Managers</span>
+                <span class="stat-value">12</span>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h2>Campaign Readiness</h2>
+            <div class="stat">
+                <span>Dealer Categories</span>
+                <span class="stat-value">7</span>
+            </div>
+            <div class="stat">
+                <span>Data Quality Score</span>
+                <span class="stat-value">100%</span>
+            </div>
+            <div class="stat">
+                <span>Launch Status</span>
+                <span class="stat-value status-badge status-ready">LOCKED</span>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card" style="max-width: 1400px; margin: 30px auto;">
+        <h2>Top Priority Targets</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Company</th>
+                    <th>Region</th>
+                    <th>Category</th>
+                    <th>Contacts</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>West Coast Freight Solutions</td>
+                    <td>Los Angeles Metro</td>
+                    <td>Freight Forwarders</td>
+                    <td>2</td>
+                    <td><span class="status-badge status-ready">READY</span></td>
+                </tr>
+                <tr>
+                    <td>Desert Logistics Inc</td>
+                    <td>Phoenix Metro</td>
+                    <td>3PL Providers</td>
+                    <td>2</td>
+                    <td><span class="status-badge status-ready">READY</span></td>
+                </tr>
+                <tr>
+                    <td>Borderline Transport</td>
+                    <td>San Diego County</td>
+                    <td>Cross-Border Logistics</td>
+                    <td>1</td>
+                    <td><span class="status-badge status-ready">READY</span></td>
+                </tr>
+                <tr>
+                    <td>Sierra Cold Chain</td>
+                    <td>Reno</td>
+                    <td>Temperature-Controlled Transport</td>
+                    <td>2</td>
+                    <td><span class="status-badge status-ready">READY</span></td>
+                </tr>
+                <tr>
+                    <td>SoCal Distribution Hub</td>
+                    <td>Inland Empire</td>
+                    <td>Warehousing & Distribution</td>
+                    <td>1</td>
+                    <td><span class="status-badge status-ready">READY</span></td>
+                </tr>
+                <tr>
+                    <td>LastMile Express</td>
+                    <td>Orange County</td>
+                    <td>Last Mile Delivery</td>
+                    <td>1</td>
+                    <td><span class="status-badge status-ready">READY</span></td>
+                </tr>
+                <tr>
+                    <td>Ventura Fleet Services</td>
+                    <td>Ventura County</td>
+                    <td>Fleet Management Services</td>
+                    <td>1</td>
+                    <td><span class="status-badge status-ready">READY</span></td>
+                </tr>
+                <tr>
+                    <td>Tucson Trucking Co</td>
+                    <td>Tucson</td>
+                    <td>Freight Forwarders</td>
+                    <td>1</td>
+                    <td><span class="status-badge status-ready">READY</span></td>
+                </tr>
+                <tr>
+                    <td>Vegas Valley Logistics</td>
+                    <td>Las Vegas</td>
+                    <td>3PL Providers</td>
+                    <td>2</td>
+                    <td><span class="status-badge status-ready">READY</span></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
